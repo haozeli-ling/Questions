@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box; 
+}
+
+body {margin:0; font-family: Arial, Helvetica, sans-serif;}
+
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #800000;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column2 {
+  float: left;
+  width: 60%;
+  padding: 15px;
+}
+    
+.column3 {
+  float: left;
+  width: 5%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="topnav">
+  <a href="#">About</a>
+  <a href="#">Papers</a>
+  <a href="#">Talks</a>
+  <a href="#">Teaching</a>
+</div>
+
+      
+    
+<div class="column3">
+</div>
+
+<div class="row">
+  <div class="column2">
+    <h2> Haoze Li | 李昊澤 <img src="HL.png" style="width:23px;height:23px;"> &nbsp; </h2>
+    <p> I'm currently a UK-style lecturer at <span style="color: darkred;"><a class="dhtgD aw5Odc" style="color: #800000;" href="https://english.gdufs.edu.cn/" target="_blank" rel="noopener noreferrer">Guangdong University of Foreign Studies (GDUFS)</a></span>. My research interest lies primarily in natural language semantics. Before coming to GDUFS, I studied at <span style="color: darkred;"><a class="dhtgD aw5Odc" style="color: #800000;" href="https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html" target="_blank" rel="noopener noreferrer">Department of Linguistics, New York University (NYU)</a></span> and got my PhD degree. I also had a Master degree from <span style="color: #800000;"><a class="dhtgD aw5Odc" style="color: #800000;" href="https://www.cuhk.edu.hk/english/index.html" target="_blank" rel="noopener noreferrer">The Chinese University of Hong Kong (CUHK)</a></span>&nbsp;and studied as a visiting student at&nbsp;<span style="color: #800000;"><a class="dhtgD aw5Odc" style="color: #800000;" href="http://www.google.com/url?q=http%3A%2F%2Fling.rutgers.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHaRbabELN0gWiZ3Zfeez02XXe9aA" target="_blank" rel="noopener noreferrer">Department of Linguistics, Rutgers</a></span>&nbsp;in 2014-2015 and at Department of Linguistics, University of California, Santa Cruz (UCSC) in 2019-2020.</p>
+    <p>I'm especially interested in question, focus, discourse anaphora, quantification, and metalinguistic phenomena. The interactions of these phenomena bring about "fancy" semantic representations that not only call for an enriched theory of compositional semantics but also shed light on our understanding of other linguistic facts.</p>
+    <p>My dissertation explores ways in which the combination of dynamic semantics and question semantics can make sense of dynamic effects of questions, for example, <em>wh</em>-expressions (<em>what</em>, <em>who</em>, <em>where</em>) can bind anaphors cross-sententially. I've also worked on focus intervention effects, sentence final particles in Cantonese, measurement constructions and ellipsis.</p>
+    <p> My hometown is <a href="https://en.wikipedia.org/wiki/Ankang"><span style="color: #800000;">Ankang</span></a>, a lovely small town in south Shaanxi.</p> 
+  </div>
+  
+  <div class="column">
+      <p> <img src="photo-me.png", width="300" height="500" > 
+      </p>
+  </div>
+  
+
+</div>
+
+</body>
+</html>
