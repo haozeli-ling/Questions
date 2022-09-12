@@ -24,6 +24,12 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 - Basics of the scoreboard framework (based on Farkas & Bruce 2001)
 - Force shift
 
+## Requirements
+- Participation (10%)
+- 1 class presentation (40%)
+- 1 final paper (60%)
+
+
 ## Resourses
 
 This seminar will not and cannot cover all the fasinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful recent seminars on question semantics and their course materials are accessible online. You may find it useful to consult them:
