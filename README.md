@@ -27,3 +27,7 @@ In the standard semantic theory, the meaning of a sentence is identified with it
 ### Unit 3: Embedded questions
 - Selectional restrictions
 - Variations of exhaustivity
+### Unit 4: The dynamic pragmatics of questions
+- Information update of questions
+- Complex speech acts: Rising declaratives
+- Complex speech acts: Force shift
