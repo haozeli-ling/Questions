@@ -26,9 +26,9 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 
 ## Requirements
 - Participation (10%)
-- 1 class presentation (40%)
-- 1 final paper (60%)
-
+- Class presentation (30%)
+- Abstract (20%)
+- 1 final paper (40%)
 
 ## Resourses
 
