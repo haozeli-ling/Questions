@@ -1,7 +1,7 @@
 # Semantics of questions 
 
 ## Description
-In the standard semantic theory, the meaning of a sentence is identified with its truth condition. Pinning down the meaning of questions, however, poses challenges to this standard view as questions do not have a truth condition. It does not make much sense to say that a question is true or false. Since the 1970s, many approaches have been developed to capture the meaning of questions, leading to theoretical innovations as well as an impressive growth of the empircal domain.  
+In the standard semantic theory, the meaning of a sentence is identified with its truth condition. Pinning down the meaning of questions, however, poses challenges to this standard view as questions do not have a truth condition. It does not make much sense to say that a question is true or false. Since the 1970s, many approaches have been developed to capture the meaning of questions, leading to theoretical innovations as well as an impressive growth of the empirical domain.  
 
 This seminar will begin with the classical question semantics of the 70s and 80s, emphasizing the connection among different approaches. Afterwards, we will discuss a series of cross-linguistic phenomena that motivate theories interweaving question semantics with other meaning modules (e.g., focus, modality, dynamics). Finally, we will consider the pragmatics of questions in a dynamic framework, which provides tools for understanding the discourse function of interrogative sentences. 
 
