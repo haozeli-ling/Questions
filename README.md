@@ -6,39 +6,30 @@ In the standard semantic theory, the meaning of a sentence is identified with it
 This seminar will begin with the classic question semantics of the 70s and 80s, emphasizing the connection among different approaches. Afterwards, it will discuss a series of cross-linguistic phenomena that motivate theories interweaving the module of question meaning with other meaning modules (e.g., focus, modality, dynamics). Finally, it will consider the dynamic pragmatics of questions, which provides tools for understanding the discourse function of interrogative sentences. 
 
 ## Time and place
+Tuesday and Thursday 1:30 pm -- 3:05 pm, Cave
 
+## Tentative schedule 
+### Introduction 
+### Unit 1: Classic approaches
+- The Categorial approach
+- The propositional set approach (aka the Hamblin/Karttunen approach)
+- The Partition semantics approach 
+### Unit 2: Question semantics + 
+- Exceptional scope of wh-expressions
+- Pair-list and functional readings 
+- Focus intervention effects
+- Modal indefinites
+- Wh-conditionals (aka ''Chinese donkey sentences'')
+### Unit 3: The dynamic pragmatics of questions
+- Basics of the scoreboard framework (based on Farkas & Bruce 2001)
+- Force shift
 
 ## Resourses
 
 This seminar cannot cover all the fasinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful seminars on question semantics that have been taught recently and their course materials are accessible from the internet. You may find your favorite topic(s) from there:
 
 - Patrick Elliott, Kai von Final, Danny Fox, Sabine Iatridou, and David Pesetsky: Syntax and semantics of questions (Class videos are also available)  
-- Yimei Xiang: Semantics of questions 
+- Yimei Xiang: Semantics of questions (more on the Categorial approach, uniqueness, mention-some readings, higher-order answers)
 - Floris Roelofsen: Semantics of questions (more on Inquisitive Semantics)
 
-Veneeta has 
-
-
-
-
-## Requirements
-1. active participation 
-2. 1 class presentation  
-3. 1 mini-term paper 
-
-## Tentative schedule 
-### Introduction 
-### Unit 1: Three classical approaches and their connections
-- The Categorial approach
-- The propositional set approach (i.e., the Hamblin/Karttunen approach)
-- The Partition semantics approach 
-### Unit 2: Question composition
-- Scope of wh-expressions
-- Pair-list and functional readings
-### Unit 3: Focus and wh-expressions
-- Focus based semantics for questions
-- Focus intervention effects
-### Unit 4: The pragmatics of questions
-- Information update of questions
-- Complex speech acts: Rising declaratives
-- Complex speech acts: Force shift
+Veneeta Dayal has a great book *Questions* (2017), which introduces almost everything about questions.  
