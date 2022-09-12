@@ -1,17 +1,25 @@
 # Semantics of questions 
 
 ## Description
-In the standard semantic theory, the meaning of a sentence is identified with its truth condition. Pinning down the meaning of questions, however, challenges this standard view as questions do not have a truth condition. It does not make much sense to say that a question is true or false. Since the 1970s, many approaches have been developed to capture the meaning of questions, leading to theoretical innovations as well as an impressive growth of the empircal domain. This seminar aims to provide an overview of the theoretical and empirical landscape of question meaning, with an emphasis on the following topics: 
+In the standard semantic theory, the meaning of a sentence is identified with its truth condition. Pinning down the meaning of questions, however, challenges this standard view as questions do not have a truth condition. It does not make much sense to say that a question is true or false. Since the 1970s, many approaches have been developed to capture the meaning of questions, leading to theoretical innovations as well as an impressive growth of the empircal domain. Currently, the empirical coverage is even beyond interrogative sentences and the relevant theories are created by combining semantics of questions with other semantic frameworks. 
 
-- three classical approaches to question meaning (categorial meaning, propositional set, partition semantics),
-- composition of question meaning,
-- semantics of embedded questions,
-- the pragmatics of questions, 
-- cross-linguistic variations in questions  
-
-
+This seminar will begin with the classic question semantics of the 70s and 80s, emphasizing the connection among different approaches. Afterwards, it will discuss a series of cross-linguistic phenomena that motivate theories interweaving the module of question meaning with other meaning modules (e.g., focus, modality, dynamics). Finally, it will consider the dynamic pragmatics of questions, which provides tools for understanding the discourse function of interrogative sentences. 
 
 ## Time and place
+
+
+## Resourses
+
+This seminar cannot cover all the fasinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful seminars on question semantics that have been taught recently and their course materials are accessible from the internet. You may find your favorite topic(s) from there:
+
+- Patrick Elliott, Kai von Final, Danny Fox, Sabine Iatridou, and David Pesetsky: Syntax and semantics of questions (Class videos are also available)  
+- Yimei Xiang: Semantics of questions 
+- Floris Roelofsen: Semantics of questions (more on Inquisitive Semantics)
+
+Veneeta has 
+
+
+
 
 ## Requirements
 1. active participation 
@@ -25,12 +33,12 @@ In the standard semantic theory, the meaning of a sentence is identified with it
 - The propositional set approach (i.e., the Hamblin/Karttunen approach)
 - The Partition semantics approach 
 ### Unit 2: Question composition
-- Pair-list/functional readings
-- Scope of in-situ wh-expressions
-### Unit 3: Embedded questions
-- Selectional restrictions
-- Variations of exhaustivity
-### Unit 4: The dynamic pragmatics of questions
+- Scope of wh-expressions
+- Pair-list and functional readings
+### Unit 3: Focus and wh-expressions
+- Focus based semantics for questions
+- Focus intervention effects
+### Unit 4: The pragmatics of questions
 - Information update of questions
 - Complex speech acts: Rising declaratives
 - Complex speech acts: Force shift
