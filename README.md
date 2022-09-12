@@ -1,19 +1,19 @@
 # Semantics of questions 
 
 ## Description
-In the standard semantic theory, the meaning of a sentence is identified with its truth condition. Pinning down the meaning of questions, however, challenges this standard view as questions do not have a truth condition. It does not make much sense to say that a question is true or false. Since the 1970s, many approaches have been developed to capture the meaning of questions, leading to theoretical innovations as well as an impressive growth of the empircal domain. Currently, the empirical coverage is even beyond interrogative sentences and the relevant theories are created by combining semantics of questions with other semantic frameworks. 
+In the standard semantic theory, the meaning of a sentence is identified with its truth condition. Pinning down the meaning of questions, however, poses challenges to this standard view as questions do not have a truth condition. It does not make much sense to say that a question is true or false. Since the 1970s, many approaches have been developed to capture the meaning of questions, leading to theoretical innovations as well as an impressive growth of the empircal domain.  
 
-This seminar will begin with the classic question semantics of the 70s and 80s, emphasizing the connection among different approaches. Afterwards, it will discuss a series of cross-linguistic phenomena that motivate theories interweaving the module of question meaning with other meaning modules (e.g., focus, modality, dynamics). Finally, it will consider the dynamic pragmatics of questions, which provides tools for understanding the discourse function of interrogative sentences. 
+This seminar will begin with the classical question semantics of the 70s and 80s, emphasizing the connection among different approaches. Afterwards, we will discuss a series of cross-linguistic phenomena that motivate theories interweaving question semantics with other meaning modules (e.g., focus, modality, dynamics). Finally, we will consider the pragmatics of questions in a dynamic framework, which provides tools for understanding the discourse function of interrogative sentences. 
 
 ## Time and place
-Tuesday and Thursday 1:30 pm -- 3:05 pm, Cave
+Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 
-## Tentative schedule 
-### Introduction 
+## Tentative schedule
+### Introduction
 ### Unit 1: Classic approaches
-- The Categorial approach
+- The categorial approach
 - The propositional set approach (aka the Hamblin/Karttunen approach)
-- The Partition semantics approach 
+- The partition semantics approach 
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
 - Pair-list and functional readings 
@@ -26,10 +26,10 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Cave
 
 ## Resourses
 
-This seminar cannot cover all the fasinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful seminars on question semantics that have been taught recently and their course materials are accessible from the internet. You may find your favorite topic(s) from there:
+This seminar will not and cannot cover all the fasinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful recent seminars on question semantics and their course materials are accessible online. You may find it useful to consult them:
 
-- Patrick Elliott, Kai von Final, Danny Fox, Sabine Iatridou, and David Pesetsky: Syntax and semantics of questions (Class videos are also available)  
-- Yimei Xiang: Semantics of questions (more on the Categorial approach, uniqueness, mention-some readings, higher-order answers)
-- Floris Roelofsen: Semantics of questions (more on Inquisitive Semantics)
+- Patrick Elliott, Kai von Fintel, Danny Fox, Sabine Iatridou, and David Pesetsky: Syntax and semantics of questions (Class videos are also available)  
+- Yimei Xiang: Semantics of questions (a detailed introduction of the categorial approach, uniqueness, mention-some readings, higher-order answers)
+- Floris Roelofsen: Semantics of questions (based on Inquisitive Semantics)
 
-Veneeta Dayal has a great book *Questions* (2017), which introduces almost everything about questions.  
+Veneeta Dayal has a great book *Questions* (2017), which includes almost everything about questions.  
