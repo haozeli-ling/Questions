@@ -12,4 +12,18 @@ In the standard semantic theory, the meaning of a sentence is identified with it
 
 ## Requirements
 1. active participation 
-2. 
+2. 1 class presentation  
+3. 1 mini-term paper 
+
+## Tentative schedule 
+### Introduction 
+### Unit 1: Three classical approaches and their connections
+- The Categorial approach
+- The propositional set approach (i.e., the Hamblin/Karttunen approach)
+- The Partition semantics approach 
+### Unit 2: Question composition
+- Pair-list/functional readings
+- Scope of in-situ wh-expressions
+### Unit 3: Embedded questions
+- Selectional restrictions
+- Variations of exhaustivity
