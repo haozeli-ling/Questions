@@ -36,8 +36,8 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 
 This seminar will not and cannot cover all the fasinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful recent seminars on question semantics and their course materials are accessible online. You may find it useful to consult them:
 
-- Patrick Elliott, Kai von Fintel, Danny Fox, Sabine Iatridou, and David Pesetsky: Syntax and semantics of questions (Class videos are also available)  
-- Yimei Xiang: Semantics of questions (a detailed introduction of the categorial approach, uniqueness, mention-some readings, higher-order answers)
-- Floris Roelofsen: Semantics of questions (based on Inquisitive Semantics)
+- [Patrick Elliott, Kai von Fintel, Danny Fox, Sabine Iatridou, and David Pesetsky](https://canvas.mit.edu/courses/7282): Syntax and semantics of questions (Class videos are also available)  
+- [Yimei Xiang](https://yimeixiang.wordpress.com/teaching/): Semantics of questions (a detailed introduction of the categorial approach, uniqueness, mention-some readings, higher-order answers)
+- [Floris Roelofsen](https://projects.illc.uva.nl/inquisitivesemantics/courses/2018-creteling.html): Semantics of questions (based on Inquisitive Semantics)
 
-Veneeta Dayal has a great book *Questions* (2017), which includes almost everything about questions.  
+Veneeta Dayal has a great book [*Questions* (2017)](https://global.oup.com/ukhe/product/questions-9780199281275?cc=us&lang=en&), which includes almost everything about questions.  
