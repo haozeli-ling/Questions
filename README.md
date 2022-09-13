@@ -1,4 +1,4 @@
-# Semantics of questions 
+# Seminar on questions 
 
 ## Description
 In the standard semantic theory, the meaning of a sentence is identified with its truth condition. Pinning down the meaning of questions, however, poses challenges to this standard view as questions do not have a truth condition. It does not make much sense to say that a question is true or false. Since the 1970s, many approaches have been developed to capture the meaning of questions, leading to theoretical innovations as well as an impressive growth of the empirical domain.  
@@ -9,9 +9,10 @@ This seminar will begin with the classical question semantics of the 70s and 80s
 Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 
 ## Tentative schedule
-### Introduction
 ### Unit 1: Classic approaches
-- The categorial approach
+- Sept 22. The categorial approach. 
+  - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D) 
+  - Lecture notes 
 - The propositional set approach (aka the Hamblin/Karttunen approach)
 - The partition semantics approach 
 ### Unit 2: Question semantics + 
