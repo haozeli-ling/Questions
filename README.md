@@ -12,7 +12,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 ### Unit 1: Classic approaches
 - Sept 22. The categorial approach. 
   - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D)
-    - In the categorial approach, the meaning of a question is defined in terms of its possible short answers. Although the categorial approach has been confronted with many challenges in the past decades, this paper presents new evidence to show the necessity of defining questions in their short answers. Moreover, it provides a hybrid categoral approach to overcome the previous challenges. 
+    - In the categorial approach, the meaning of a question is defined in terms of its possible short answers. Although this approach has been confronted with many challenges in the past decades, this paper presents new evidence to show the necessity of defining questions in their short answers. Moreover, it provides a hybrid categorial approach to overcome the previous challenges. 
   - Lecture notes 
 - The propositional set approach (aka the Hamblin/Karttunen approach)
 - The partition semantics approach 
