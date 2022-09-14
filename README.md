@@ -23,8 +23,8 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 - Modal indefinites
 - Wh-conditionals (aka ''Chinese donkey sentences'')
 ### Unit 3: The dynamic pragmatics of questions
-- Basics of the scoreboard framework (based on Farkas & Bruce 2001)
-- Force shift
+- Basics of context structure (based on Farkas & Bruce 2010)
+- Non-canonical questions
 
 ## Requirements
 - Participation (10%)
