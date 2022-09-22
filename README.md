@@ -13,15 +13,15 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 - Sept 22. The categorial approach. 
   - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D)
     - In the categorial approach, the meaning of a question is defined in terms of its possible short answers. Although this approach has been confronted with many challenges in the past decades, this paper presents new evidence to show the necessity of defining question meanings in terms of short answers. Moreover, it provides a hybrid categorial approach to overcome the previous challenges. 
-  - Lecture notes (coming soon)
+  - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/Categorial.pdf)
 - The propositional set approach (aka the Hamblin/Karttunen approach)
 - The partition semantics approach 
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
 - Pair-list and functional readings 
 - Focus intervention effects
-- Modal indefinites
-- Wh-conditionals (aka ''Chinese donkey sentences'')
+- Modal indefinites/Sluicing
+- Unconditionals and wh-conditionals (aka ''Chinese donkey sentences'')
 ### Unit 3: The dynamic pragmatics of questions
 - Basics of context structure (based on Farkas & Bruce 2010)
 - Non-canonical questions
