@@ -11,8 +11,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 ## Tentative schedule
 ### Unit 1: Classic approaches
 - Sept 22, 27. The categorial approach. 
-  - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D)
-    - In the categorial approach, the meaning of a question is defined in terms of its possible short answers. Although this approach has been confronted with many challenges in the past decades, this paper presents new evidence to show the necessity of defining question meanings in terms of short answers. Moreover, it provides a hybrid categorial approach to overcome the previous challenges. 
+  - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D) 
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/Categorial.pdf)
 - Sept 29. The propositional set approach (aka the Hamblin/Karttunen approach)
   - Reading: [Dayal (2017)](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
