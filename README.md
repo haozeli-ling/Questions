@@ -14,7 +14,8 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
   - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D) 
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/Categorial.pdf)
 - Sept 29. The propositional set approach (aka the Hamblin/Karttunen approach)
-  - Reading: [Dayal (2017)](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
+  - Reading: [Dayal (2017), Ch2](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
+  - Lecture notes (Coming soon)
 - The partition semantics approach 
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
