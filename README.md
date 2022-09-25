@@ -15,7 +15,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
     - In the categorial approach, the meaning of a question is defined in terms of its possible short answers. Although this approach has been confronted with many challenges in the past decades, this paper presents new evidence to show the necessity of defining question meanings in terms of short answers. Moreover, it provides a hybrid categorial approach to overcome the previous challenges. 
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/Categorial.pdf)
 - Sept 29. The propositional set approach (aka the Hamblin/Karttunen approach)
-  - Reading: [Dayal (2017)]
+  - Reading: [Dayal (2017)](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
 - The partition semantics approach 
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
