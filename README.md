@@ -17,7 +17,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
   - Reading: 
     - Primary: [Dayal (2017), Ch2](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
     - Supplementary: [Karttunen (1977)](https://www.jstor.org/stable/25000027) 
-  - Lecture notes (Coming soon)
+  - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/categorial.pdf)
 - The partition semantics approach 
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
