@@ -20,7 +20,8 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/p-set.pdf)
 - The partition semantics approach 
   - Reading:
-    - Primary: 
+    - Primary: [Dayal (2017), Ch2](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
+    - Supplementary: [Groenendijk & Stokhof (1982)](https://www.jstor.org/stable/25001092#metadata_info_tab_contents)
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/partition.pdf)
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
