@@ -19,6 +19,9 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
     - Supplementary: [Karttunen (1977)](https://www.jstor.org/stable/25000027) 
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/p-set.pdf)
 - The partition semantics approach 
+  - Reading:
+    - Primary: 
+  - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/partition.pdf)
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
 - Pair-list and functional readings 
