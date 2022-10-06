@@ -26,7 +26,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 - Relation between the three approaches
   - Reading: 
     - Primary: [Dayal (2017), Ch3](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
-  - Lecture notes (coming soon)
+  - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/3_approaches.pdf)
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
 - Pair-list and functional readings 
