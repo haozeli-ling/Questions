@@ -23,12 +23,12 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
     - Primary: [Dayal (2017), Ch2](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
     - Supplementary: [Groenendijk & Stokhof (1982)](https://www.jstor.org/stable/25001092#metadata_info_tab_contents)
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/partition.pdf)
-- Oct 6. Relation between the three approaches
+- Oct 6, 11. Relation between the three approaches
   - Reading: 
     - Primary: [Dayal (2017), Ch3](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/3_approaches.pdf)
 ### Unit 2: Question semantics + 
-- Exceptional scope of wh-expressions
+- Oct 13, 18. Exceptional scope of wh-expressions
   - Reading: 
     - Primary: [Reinhart (1998)](https://www.jstor.org/stable/23748255#metadata_info_tab_contents)
     - Supplementary: [Shimoyama (2006)](https://link.springer.com/article/10.1007/s11050-006-0001-5)
