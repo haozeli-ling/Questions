@@ -31,6 +31,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 - Exceptional scope of wh-expressions
   - Reading: 
     - Primary: [Reinhart (1998)](https://www.jstor.org/stable/23748255#metadata_info_tab_contents)
+    - Supplementary: [Shimoyama (2006)](https://link.springer.com/article/10.1007/s11050-006-0001-5)
   - Slides 
 - Pair-list and functional readings 
 - Focus intervention effects
