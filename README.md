@@ -29,6 +29,9 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/3_approaches.pdf)
 ### Unit 2: Question semantics + 
 - Exceptional scope of wh-expressions
+  - Reading: 
+    - Primary: [Reinhart (1998)](https://www.jstor.org/stable/23748255#metadata_info_tab_contents)
+  - Slides 
 - Pair-list and functional readings 
 - Focus intervention effects
 - Modal indefinites/Sluicing
