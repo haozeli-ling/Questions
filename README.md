@@ -33,7 +33,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
     - Primary: [Reinhart (1998)](https://www.jstor.org/stable/23748255#metadata_info_tab_contents)
     - Supplementary: [Shimoyama (2006)](https://link.springer.com/article/10.1007/s11050-006-0001-5), [Charlow (2019)](https://link.springer.com/article/10.1007/s10988-019-09278-3)
   - [Slides](https://github.com/haozeli-ling/Questions/blob/main/Wh-scope.pdf) 
-- Pair-list and functional readings 
+- Oct 20, 25. Pair-list and functional readings 
   - Reading:
     - Primary: [Dayal (2017), Ch4](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
     - Supplementary: [Xiang (2022)](https://ling.auf.net/lingbuzz/005097)
