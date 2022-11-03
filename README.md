@@ -40,9 +40,13 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 - Focus intervention effects
   - Reading:
     - Primary: [Beck (2006)](https://www.jstor.org/stable/23748095#metadata_info_tab_contents)
-    -Supplementary: [Li & Law (2016)](https://link.springer.com/article/10.1007/s10988-016-9189-0), [Hedding (2020), ch5](https://drive.google.com/file/d/1TDV77dY2JfvIDrjj0VFmrCsgrlqN4Yrj/view) 
-- Modal indefinites/Sluicing
-- Unconditionals and wh-conditionals (aka ''Chinese donkey sentences'')
+    - Supplementary: [Li & Law (2016)](https://link.springer.com/article/10.1007/s10988-016-9189-0), [Hedding (2020), ch5](https://drive.google.com/file/d/1TDV77dY2JfvIDrjj0VFmrCsgrlqN4Yrj/view) 
+  - [Slides](https://github.com/haozeli-ling/Questions/blob/main/FIE.pdf)
+- Wh-conditionals (aka ''Chinese donkey sentences'')
+  - Reading: 
+    - Primary: [Cheng & Huang (1996)](https://link.springer.com/article/10.1007/BF00355411)
+    - Supplementary: [Chierchia 2000](https://scholar.harvard.edu/files/chierchia/files/2000_jeal_chineseconditionals.pdf), [Li (2021)](https://link.springer.com/article/10.1007/s11050-021-09180-4)
+  - Slides
 ### Unit 3: The dynamic pragmatics of questions
 - Basics of context structure (based on Farkas & Bruce 2010)
 - Non-canonical questions
