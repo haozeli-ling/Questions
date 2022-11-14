@@ -53,7 +53,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 ### Unit 3: The dynamic pragmatics of questions
 - Basics of context structure 
   - Primary: [Farkas & Bruce (2010)](https://academic.oup.com/jos/article-abstract/27/1/81/1627586)
-  - Supplementary: 
+  - Supplementary: [Farkas (2022)](https://academic.oup.com/jos/article/39/2/295/6534147)
 - Non-canonical questions
 
 ## Requirements
