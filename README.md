@@ -51,7 +51,9 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
     - Supplementary: [Chierchia 2000](https://scholar.harvard.edu/files/chierchia/files/2000_jeal_chineseconditionals.pdf), [Li (2021)](https://link.springer.com/article/10.1007/s11050-021-09180-4)
   - Slides
 ### Unit 3: The dynamic pragmatics of questions
-- Basics of context structure (based on Farkas & Bruce 2010)
+- Basics of context structure 
+  - Primary: [Farkas & Bruce (2010)](https://academic.oup.com/jos/article-abstract/27/1/81/1627586)
+  - Supplementary: 
 - Non-canonical questions
 
 ## Requirements
