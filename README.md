@@ -8,7 +8,7 @@ This seminar will begin with the classical question semantics of the 70s and 80s
 ## Time and place
 Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 
-## Tentative schedule
+## Schedule
 ### Unit 1: Classic approaches
 - Sept 22, 27. The categorial approach. 
   - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D) 
@@ -52,9 +52,10 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
   - Slides
 ### Unit 3: The dynamic pragmatics of questions
 - Basics of context structure 
-  - Primary: [Farkas & Bruce (2010)](https://academic.oup.com/jos/article-abstract/27/1/81/1627586)
-  - Supplementary: [Farkas (2022)](https://academic.oup.com/jos/article/39/2/295/6534147)
-- Non-canonical questions
+  - Reading:
+    - Primary: [Farkas & Bruce (2010)](https://academic.oup.com/jos/article-abstract/27/1/81/1627586)
+    - Supplementary: [Farkas (2022)](https://academic.oup.com/jos/article/39/2/295/6534147)
+  - Slides
 
 ## Requirements
 - Participation (10%)
