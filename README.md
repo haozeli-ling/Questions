@@ -66,7 +66,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 
 ## Resourses
 
-This seminar will not and cannot cover all the fasinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful recent seminars on question semantics and their course materials are accessible online. You may find it useful to consult them:
+This seminar will not and cannot cover all the fascinating topics relating to questions, unfortunately. However, fortunately, there have been several wonderful recent seminars on question semantics and their course materials are accessible online. You may find it useful to consult them:
 
 - [Patrick Elliott, Kai von Fintel, Danny Fox, Sabine Iatridou, and David Pesetsky](https://canvas.mit.edu/courses/7282): Syntax and semantics of questions (Class videos are also available)  
 - [Yimei Xiang](https://yimeixiang.wordpress.com/teaching/): Semantics of questions (a detailed introduction of the categorial approach, uniqueness, mention-some readings, higher-order answers)
