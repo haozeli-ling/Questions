@@ -10,30 +10,30 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
 
 ## Schedule
 ### Unit 1: Classic approaches
-- Sept 22, 27. The categorial approach. 
+- The categorial approach. 
   - Reading: [Xiang (2021)](https://link.springer.com/epdf/10.1007/s10988-020-09294-8?author_access_token=UVxHhIvlJBVo_alvFGAeVPe4RwlQNchNByi7wbcMAY7FxemtbOlymEGL01JT1uHiyhbh2qg_2XP2XH0z56Sl1WPyTYGJB_2J569xCWskCfG3bSwxMd6O6yZUa5YxlYtQvb5wN8T7FdckKz46ZcUnzQ%3D%3D) 
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/categorial.pdf)
-- Sept 29. The propositional set approach (aka the Hamblin/Karttunen approach)
+- The propositional set approach (aka the Hamblin/Karttunen approach)
   - Reading: 
     - Primary: [Dayal (2017), Ch2](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
     - Supplementary: [Karttunen (1977)](https://www.jstor.org/stable/25000027) 
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/p-set.pdf)
-- Oct 4. The partition semantics approach 
+- The partition semantics approach 
   - Reading:
     - Primary: [Dayal (2017), Ch2](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
     - Supplementary: [Groenendijk & Stokhof (1982)](https://www.jstor.org/stable/25001092#metadata_info_tab_contents)
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/partition.pdf)
-- Oct 6, 11. Relation between the three approaches
+- Relation between the three approaches
   - Reading: 
     - Primary: [Dayal (2017), Ch3](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
   - [Lecture notes](https://github.com/haozeli-ling/Questions/blob/main/3_approaches.pdf)
 ### Unit 2: Question semantics + 
-- Oct 13, 18. Exceptional scope of wh-expressions
+- Exceptional scope of wh-expressions
   - Reading: 
     - Primary: [Reinhart (1998)](https://www.jstor.org/stable/23748255#metadata_info_tab_contents)
     - Supplementary: [Shimoyama (2006)](https://link.springer.com/article/10.1007/s11050-006-0001-5), [Charlow (2019)](https://link.springer.com/article/10.1007/s10988-019-09278-3)
   - [Slides](https://github.com/haozeli-ling/Questions/blob/main/Wh-scope.pdf) 
-- Oct 20, 25. Pair-list and functional readings 
+- Pair-list and functional readings 
   - Reading:
     - Primary: [Dayal (2017), Ch4](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
     - Supplementary: [Xiang (2022)](https://ling.auf.net/lingbuzz/005097)
