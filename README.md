@@ -50,7 +50,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
   - Reading: 
     - Primary: [Cheng & Huang (1996)](https://link.springer.com/article/10.1007/BF00355411)
     - Supplementary: [Chierchia 2000](https://scholar.harvard.edu/files/chierchia/files/2000_jeal_chineseconditionals.pdf), [Li (2021)](https://link.springer.com/article/10.1007/s11050-021-09180-4)
-  - Slides
+  - [Slides](https://github.com/haozeli-ling/Questions/blob/main/WHC.pdf)
 ### Unit 3: The dynamic pragmatics of questions
 - Basics of context structure 
   - Reading:
