@@ -37,6 +37,7 @@ Tuesday and Thursday 1:30 pm -- 3:05 pm, Stevenson Lib (aka. the Cave)
   - Reading:
     - Primary: [Dayal (2017), Ch4](https://github.com/haozeli-ling/Questions/blob/main/Dayal.%202017.%20Questions_ch2-3-4-ref.pdf)
     - Supplementary: [Xiang (2022)](https://ling.auf.net/lingbuzz/005097)
+  - [Slides](https://github.com/haozeli-ling/Questions/blob/main/Pair-list.pdf)
 - Focus intervention effects
   - Reading:
     - Primary: [Beck (2006)](https://www.jstor.org/stable/23748095#metadata_info_tab_contents)
